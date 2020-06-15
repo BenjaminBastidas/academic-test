@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Concurso IDeA I+D 2019"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "Logoconicytgrande.jpg"
+hero_media = "logos.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
