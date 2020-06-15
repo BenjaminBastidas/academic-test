@@ -52,6 +52,6 @@ hero_media = "logos.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**GEMA**: Mejorando la **Gestión** de **Energía** en **Microrredes** con **Almacenamiento** vía optimización estocástica y machine Learning
-
+<!-- **GEMA**: Mejorando la **Gestión** de **Energía** en **Microrredes** con **Almacenamiento** vía optimización estocástica y machine Learning -->
+**GEMA**: We are combining machine learning and stochastic optimization tools to develop optimal energy management systems for fotovoltaic generation with storage
 # <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

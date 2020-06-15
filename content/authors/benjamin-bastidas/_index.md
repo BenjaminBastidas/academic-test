@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
 
@@ -58,8 +58,8 @@ user_groups:
 - Researchers
 
 ---
-I've been building, programming, and disassembling things since I can remember. 
+I've been building, programming, and disassembling things since I can remember.
 
-Currently, I'm an Assistant Professor at Universidad Adolfo Ibàñez and Academic Director of the Master in Industrial Engineering. I also founded and was the initial director of the UAI Systems Center, where we work in solving complex real-life problems using operations research tools. 
+Currently, I'm an Assistant Professor at Universidad Adolfo Ibàñez and Academic Director of the Master in Industrial Engineering. I also founded and was the initial director of the UAI Systems Center, where we work in solving complex real-life problems using operations research tools.
 
 My research interests are in combinatorial problems, in particular, scheduling problems, and the analysis and design of approximation algorithms. I'm currently interested in applications related to control and energy/power management and dealing with uncertainty in these settings.
