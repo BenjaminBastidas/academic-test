@@ -77,7 +77,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Researchers
 
 ---
 I'm interested in harnessing the power operations research and prescriptive analytics tools, developing decision support tools in applied problems.
