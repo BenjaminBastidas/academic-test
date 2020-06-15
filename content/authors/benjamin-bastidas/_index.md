@@ -58,8 +58,6 @@ user_groups:
 - Researchers
 
 ---
-I've been building, programming, and disassembling things since I can remember.
+I’ve always been interested in science and mathematics and I try to apply these to everything I do in my life. I also love programming, and everything related to the study of the universe, from amateur astrophotography to astrophysics.
 
-Currently, I'm an Assistant Professor at Universidad Adolfo Ibàñez and Academic Director of the Master in Industrial Engineering. I also founded and was the initial director of the UAI Systems Center, where we work in solving complex real-life problems using operations research tools.
-
-My research interests are in combinatorial problems, in particular, scheduling problems, and the analysis and design of approximation algorithms. I'm currently interested in applications related to control and energy/power management and dealing with uncertainty in these settings.
+Currently, I’m a Research Engineer at Universidad Adolfo Ibáñez, were I work developing and implementing solutions to solar energy/power control and management based on stochastic optimization models. I also have previous experience working in consulting related to operations research and software development.
