@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Alternate director
 
 # Organizations/Affiliations
 organizations:
-- name: webpage
-  url: ""
+- name: Universidad Adolfo Ibáñez
+  url: "https://mansci-web.uai.cl/thmello/"
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -24,6 +24,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- Directors
 - Researchers
 
 ---

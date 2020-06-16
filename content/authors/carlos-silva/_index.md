@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Gonzalo Ruz"
+title: "Carlos Silva"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "gonzalo-ruz"
+- "carlos-silva"
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +15,7 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
 - name: Universidad Adolfo Ibáñez
-  url: "https://gonzaloruz.com/index.html"
+  url: "https://ingenieria.uai.cl/profesor/carlos-silva/"
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

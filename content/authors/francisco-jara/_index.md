@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Un
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: webpage
-  url: "http://www.columbia.edu/~gi10/"
+- name: Universidad de Santiago de Chile
+  url: "http://www.ingenieriaindustrial-usach.cl/en/francisco-jara/"
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

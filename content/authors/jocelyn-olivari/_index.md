@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: webpage
-  url: ""
+- name: Universidad Adolfo Ibáñez
+  url: "https://ingenieria.uai.cl/profesor/jocelyn-olivari/"
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
